@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>难记记记住</title>
     <link>https://eKLInpig.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on 难记记记住</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <lastBuildDate>Mon, 16 Sep 2019 11:14:24 +0800</lastBuildDate>
     
 	<atom:link href="https://eKLInpig.github.io/index.xml" rel="self" type="application/rss+xml" />
